@@ -1,2 +1,1 @@
-# Archer-4
-Archer 4
+# Project Template 26
